@@ -5,9 +5,28 @@ h1.site-title {
     font-weight: 700;
     font-family: "Oswald", sans-serif;
     font-size: 2em;
+}
+
+.site-title a {
     color: #fcfbf9;
+    text-transform: uppercase;
+    text-shadow: rgba(0, 0, 0, 0.75) 1px 1px 2px;
+}
+
+.sidebar-toggle-wrapper {
+    background: none;
+
+    button {
+        svg { fill: #fcfbf9 !important; }
+        span { background-color: #fcfbf9 !important; }
+        span:before { background-color: #fcfbf9 !important; }
+        span:after { background-color: #fcfbf9 !important; }
+    }
 }
 
 header#masthead {
-    background-image: url('//assets/images/header.png');
+    background-image: url('/assets/images/header.png');
+    background-size: cover;
+    max-width: 100%;
+    padding-bottom: 10%;
 }
