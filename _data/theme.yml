@@ -1,0 +1,33 @@
+skin: steel
+
+t:
+  skip_links: "Überspringe Links"
+  skip_primary_nav: "Springe zu Hauptnavigation"
+  skip_content: "Springe zum Inhalt"
+  skip_footer: "Springe zum Seitenfuß"
+  menu: "Menü"
+  search: "Suche"
+  site_search: "Seitensuche"
+  results_found: "Ergebnisse"
+  search_placeholder_text: "Gib deinen Suchbegriff ein..."
+  home: "Home"
+  newer: "neuere"
+  older: "ältere"
+  email: "E-Mail"
+  subscribe: "aboniere"
+  read_more: "weiterlesen"
+  posts: "Nachrichten"
+  page: "Seite"
+  of: "von"
+  min_read: "min read"
+  present: "Present"
+
+google_fonts:
+  - name: "Fira Sans"
+    weights: "400,400i,600,600i"
+  - name: "Oswald"
+  - name: "Merriweather Sans"
+
+navigation_pages:
+  - about.md
+  - cv.md
