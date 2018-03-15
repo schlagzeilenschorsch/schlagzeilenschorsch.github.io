@@ -1,5 +1,10 @@
 ---
 ---
+
+div.initial-content {
+    background: #C2D1A9 !important;
+}
+
 h1.site-title {
     font-style: normal;
     font-weight: 700;
@@ -29,4 +34,30 @@ header#masthead {
     background-size: cover;
     max-width: 100%;
     padding-bottom: 10%;
+}
+
+header.entry-header h3.entry-title {
+    font-style: normal;
+    font-weight: 600;
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: rgba(0, 0, 0, 0.75) 1px 1px 2px;
+}
+
+article.entry {
+    background-size: cover !important;
+}
+
+footer.entry-meta {
+    background: #2c2c2c20;
+    color: white;
+    text-shadow: rgba(0, 0, 0, 0.75) 1px 1px 2px;
+    font-style: oblique;
+}
+
+div.entry-excerpt {
+    background: #A2BC7690;
+    color: #2c2c2c;
 }

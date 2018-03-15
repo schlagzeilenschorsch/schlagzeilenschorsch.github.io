@@ -1,0 +1,6 @@
+{% for author in page.authors %}
+<author>
+    <span class="icon"><img src="{{ site.data.authors[author].picture }}"></span>
+    <span>{{ site.data.authors[author].name }}</span>
+</author>
+{% endfor %}

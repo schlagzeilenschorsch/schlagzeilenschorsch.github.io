@@ -7,10 +7,10 @@ tags:
 authors:
   - ss
 comments: true
+teaser: /assets/images/junauobs/imb_6nfdex-1.gif
 ---
 Der Lard hat sein längst überfälliges Musikvideo veröffentlicht.
 Scheinbar mit Hilfe dieses kurzsichtigen Mannes:
-![Maxim Noise](/assets/images/header.png)
 
 Wer es noch nicht gesehen hat, bekommt nun die Gelegenheit dazu:
 (Bitte dislikes in beliebiger Höhe hinterlegen)
