@@ -1,6 +1,10 @@
 ---
 ---
 
+iframe {
+    max-width: 100%;
+}
+
 div.initial-content {
     background: #C2D1A9 !important;
 }
@@ -36,7 +40,7 @@ header#masthead {
     padding-bottom: 10%;
 }
 
-header.entry-header h3.entry-title {
+header.entry-header h3.entry-title, h1.intro-title {
     font-style: normal;
     font-weight: 600;
     font-family: "Merriweather Sans", sans-serif;
@@ -57,7 +61,9 @@ footer.entry-meta {
     font-style: oblique;
 }
 
-div.entry-excerpt {
+div.entry-excerpt, div.entry-content {
     background: #A2BC7690;
     color: #2c2c2c;
+    padding: 0.5em 0.5em 0.5em 0.5em;
 }
+

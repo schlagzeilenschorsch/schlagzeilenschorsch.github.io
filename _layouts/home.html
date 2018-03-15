@@ -5,7 +5,10 @@ layout: default
 {% include page-intro.html %}
 
 <main id="main" class="page-content" aria-label="Content">
-  <div class="index inner">
+    <div class="container">
+    <div class="grid">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-xl-7">
     <div>{{ content }}</div>
 
     <div>
@@ -24,7 +27,11 @@ layout: default
         {% endif %}
       </div>
     </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-xl-5">{% include sidebar.html %}</div>
+        </div>
 
     {% include footer.html %}
-  </div>
+    </div>
+    </div>
 </main>

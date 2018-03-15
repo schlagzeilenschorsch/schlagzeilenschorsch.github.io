@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include page-intro.html %}
+
+<main id="main" class="page-content" aria-label="Content">
+    <div class="container">
+    <div class="grid">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-xl-7">
+        <article class="entry-wrap">
+            <div class="entry-content">
+                {{ content }}
+            </div>
+            {% if site.disqus.shortname %}
+            {% include disqus_comments.html %}
+            {% endif %}
+        </article>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-xl-5">
+                <div id="script_content"></div>
+            </div>
+        </div>
+
+        {% include footer.html %}
+    </div>
+    </div>
+</main>
