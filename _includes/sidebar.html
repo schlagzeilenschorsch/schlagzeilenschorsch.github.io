@@ -1,13 +1,17 @@
 <div class="news-ticker">
-    <h2>Letzte Nachrichten</h2>
+    <header class="intro">
+        <h2>Letzte Nachrichten</h2>
+    </header>
     
     {% for idx in (0..10) %}
     {% if site.posts[idx] == nil %}{% break %}{% endif %}
     <div class="news-ticker-entry" style="background: url({{ site.posts[idx].teaser }}); background-size: cover;">
         <header class="entry-header">
-            <a href="{{ site.posts[idx].id }}">
-                <h3 class="entry-title">{{ site.posts[idx].title }}</h3>
+            <h3 class="entry-title">
+            <a href="{{ site.posts[idx].id }}" rel="bookmark">
+                {{ site.posts[idx].title }}
             </a>
+            </h3>
         </header>
     </div>
     {% endfor %}

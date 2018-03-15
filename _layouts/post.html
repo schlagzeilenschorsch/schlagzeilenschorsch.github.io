@@ -2,13 +2,12 @@
 layout: default
 ---
 
-{% include page-intro.html %}
-
 <main id="main" class="page-content" aria-label="Content">
     <div class="container">
     <div class="grid">
         <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-8 col-xl-7">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-7">
+                {% include page-intro.html %}
         <article class="entry-wrap">
             <div class="entry-content">
                 {{ content }}
@@ -18,7 +17,7 @@ layout: default
             {% endif %}
         </article>
             </div>
-            <div class="col-xs-12 col-sm-12 col-md-4 col-xl-5">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-5">
                 <div id="script_content">{% include sidebar.html %}</div>
             </div>
         </div>

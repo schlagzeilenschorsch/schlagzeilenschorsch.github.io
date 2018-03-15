@@ -33,6 +33,10 @@ h1.site-title {
     }
 }
 
+.entry-content {
+    width: auto !important;
+}
+
 header#masthead {
     background-image: url('/assets/images/header.png');
     background-size: cover;
@@ -48,6 +52,8 @@ header.entry-header h3.entry-title, h1.intro-title {
     text-transform: uppercase;
     color: white;
     text-shadow: rgba(0, 0, 0, 0.75) 1px 1px 2px;
+    a { color: white; }
+    a:hover { color: #d72323; }
 }
 
 article.entry {
