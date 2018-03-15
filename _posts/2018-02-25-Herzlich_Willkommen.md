@@ -5,8 +5,8 @@ date: 2018-02-25 18:46:29 +0100
 tags:
   - Junau Observer
 authors:
-  - ll
   - ss
+  - ll
 comments: true
 ---
 Der _Junau Observer_ ist ein unabhängiges Nachrichtenmagazin mit Sitz in Emskirchen. Inspiriert von JunauBILD, der ehemaligen Galionsfigur des investigativen Journalismus lässt der Observer kritische Stimmen aus dem In- und Ausland zu drängenden Junaubezogenen Themen wie Partnern, Pädos, Kronen und der Plattform an sich zu Wort kommen.
