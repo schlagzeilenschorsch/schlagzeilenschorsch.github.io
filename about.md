@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Der _Junau Observer_ ist ein unabhängiges Nachrichtenmagazin mit Sitz in Emskirchen. Inspiriert von JunauBILD, der ehemaligen Galionsfigur des investigativen Journalismus lässt der Observer kritische Stimmen aus dem In- und Ausland zu drängenden Junaubezogenen Themen wie Partnern, Pädos, Kronen und der Plattform an sich zu Wort kommen.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![Willkommen](/assets/images/junauobs/junauobs.jpg)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Wir betreiben modernen Hassjournalismus im Netz, sind dabei nah dran am Geschehen und den LeserInnen und begleiten insbesondere das Alltagsleben der Streamer kritisch.
 
+- Unbestechlich.
+- Unzensiert.
+- Unregelmäßig.
 
-[jekyll-organization]: https://github.com/jekyll
+Dafür stehen wir mit unseren Namen.
