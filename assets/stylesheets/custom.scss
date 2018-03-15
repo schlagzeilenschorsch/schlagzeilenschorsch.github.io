@@ -56,8 +56,9 @@ header.entry-header h3.entry-title, h1.intro-title {
     a:hover { color: #d72323; }
 }
 
-article.entry {
+article.entry, .news-ticker-entry {
     background-size: cover !important;
+    box-shadow: 10px 10px 5px #00000090;
 }
 
 footer.entry-meta {
