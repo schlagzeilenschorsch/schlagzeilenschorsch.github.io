@@ -7,7 +7,7 @@ tags:
 authors:
   - ss
 comments: true
-teaser: /assets/images/junauobs/Rainermusikvideo.gif
+teaser: /assets/images/junauobs/Rainermusikvideo.GIF
 ---
 Der Lard hat sein längst überfälliges Musikvideo veröffentlicht.
 Scheinbar mit Hilfe dieses kurzsichtigen Mannes:
