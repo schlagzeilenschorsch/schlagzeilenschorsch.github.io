@@ -12,6 +12,8 @@ teaser: /assets/images/junauobs/Rainermusikvideo.GIF
 Der Lard hat sein längst überfälliges Musikvideo veröffentlicht.
 Scheinbar mit Hilfe dieses kurzsichtigen Mannes:
 
+![Maxim Noise](/assets/images/junauobs/maximnoise.jpg)
+
 Wer es noch nicht gesehen hat, bekommt nun die Gelegenheit dazu:
 (Bitte dislikes in beliebiger Höhe hinterlegen)
 
