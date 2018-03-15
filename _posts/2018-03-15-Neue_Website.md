@@ -22,6 +22,6 @@ Jetzt muss ich jeden alten Artikel einzeln hier einpflegen, Da ich auch noch and
 
 Ich bitte um Verständnis!
 
-Neu ist neben dem Design auch die komfortablere Kommentarfunktion (natürlich weiterhin anonym möglich) 
+Neu ist neben dem Design auch die komfortablere Kommentarfunktion (natürlich weiterhin anonym möglich) Angemeldet kann man sogar Bilddateien hinter die Kommentare anhängen.
 
 ![Schorsch](/assets/images/junauobs/IMG_0948.PNG)
