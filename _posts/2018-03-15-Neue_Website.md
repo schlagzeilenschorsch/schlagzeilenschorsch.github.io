@@ -10,7 +10,9 @@ comments: true
 teaser: /assets/images/junauobs/neueseite.GIF
 ---
 Wie ihr sicherlich bemerkt habt, gab es in den letzten Tagen nicht besonders viel Content. 
-Es ist viel Arbeit in die neue Website geflossen, die nun völlig unabhängig von WordPress ist.Dies hat zum Einen den Vorteil, dass die Seite nun völlig Werbefrei ist und zum Anderen kann Mimimi-Joiz dem armen WordPress-Entwicklern nicht mehr auf den Keks gehen.
+Es ist viel Arbeit in die neue Website geflossen, die nun völlig unabhängig von WordPress ist.
+
+Dies hat zum Einen den Vorteil, dass die Seite nun völlig Werbefrei ist und zum Anderen kann Mimimi-Joiz dem armen WordPress-Entwicklern nicht mehr auf den Keks gehen.
 
 
 ![Joiz](/assets/images/junauobs/joizmumu.JPG)
