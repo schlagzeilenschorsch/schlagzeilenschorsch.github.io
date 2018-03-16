@@ -7,7 +7,7 @@ tags:
 authors:
   - ss
 comments: true
-teaser: /assets/images/junauobs/krobbasvideo.GIF
+teaser: /assets/images/junauobs/krobbasvideo.gif
 ---
 In ihrem neuen einminütigen Musikvideo
 
