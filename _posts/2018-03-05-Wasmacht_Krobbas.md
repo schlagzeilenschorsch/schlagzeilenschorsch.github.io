@@ -1,9 +1,18 @@
 ---
-
-
+layout: post
+title: Was macht eigentlich... Krobbas?
+date: 2018-03-25 12:46:29 +0100
+tags:
+  - Junau Observer
+authors:
+  - ss
+comments: true
+teaser: /assets/images/junauobs/Krobbasbett.GIF
 ---
 
 <p>Wer kennt ihn nicht? Gute-Laune-Kugel Krobbas (hier mit seinem Bruder)</p>
+
+
 <p><img src="https://junau382942876.files.wordpress.com/2018/03/img_1044.jpg" alt=""></p>
 <p>Vor einiger Zeit bot er seinen treuen Zuschauern in fast jedem seiner Streams einen <em>fetten</em> Batzen Unterhaltung.</p>
 <p><a href="https://youtu.be/ysJseQhvoIM">https://youtu.be/ysJseQhvoIM</a></p>
