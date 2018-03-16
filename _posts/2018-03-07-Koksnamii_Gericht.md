@@ -1,9 +1,20 @@
 ---
-
+layout: post
+title: ENTLARVT! Koksnamii vor Gericht!
+date: 2018-03-07 15:46:29 +0100
+tags:
+  - Junau Observer
+  - Koksnamii
+authors:
+  - ss
+comments: true
+teaser: /assets/images/junauobs/Koksnamiigericht.GIF
 
 ---
 
 <p>Aufmerksame Leser haben <strong><a href="https://www.younow.com/TZUNAMII">Koksnamii</a> In der Zeitung entdeckt.</strong></p>
+
+
 <p><img src="/assets/images/junauobs/Koksnamiigericht.GIF" alt="ZSMD"></p>
 <blockquote>
 <p>Ibrahim S., deutscher Staatsbürger und bei Gericht bekannt wegen Cannabisverkauf und einer Jugendstrafe wegen Körperverletzung, landete vorm Amtsgericht Hannover.</p>
