@@ -1,9 +1,19 @@
 ---
-
-
+layout: post
+title: Younow-Top-Supporter und die jungen Mädels
+date: 2018-03-08 15:24:03 +0100
+tags:
+  - Junau Observer
+  - Supporter
+  - Pädophile
+authors:
+  - ss
+comments: true
+teaser: /assets/images/junauobs/John_Santa.GIF
 ---
 
 <p>Dass YouNow sich zu einem großen Teil durch Hebephile und Pädophile finanziert, ist ja inzwischen kein großes Geheimnis mehr.<br>
+
 <img src="https://junau382942876.files.wordpress.com/2018/03/img_1143.jpg" alt=""></p>
 <p><img src="https://junau382942876.files.wordpress.com/2018/03/img_1135.jpg" alt=""></p>
 <p><strong><a href="https://www.younow.com/JohnMarkus/channel">John Markus,</a></strong> der momentan auf Platz 5 der Top-Barrenspender rangiert, hat ja bekanntlich telefonischen Kontakt zu einer minderjährigen. Hier noch einmal der Beweis:</p>
