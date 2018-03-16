@@ -10,9 +10,7 @@ comments: true
 teaser: /assets/images/junauobs/krobbasvideo.gif
 ---
 In ihrem neuen einminütigen Musikvideo
-
-Lasst die Hater reden!
-
+**'Lasst die Hater reden!'**
 erzählen uns Knutschkugel Krobbas und Koksnase Ibo, wie man mit Kritik am besten umgeht.
 
 Emotional und mitreißend - ein Meilenstein der modernen Musikgeschichte! Aber seht selbst:
