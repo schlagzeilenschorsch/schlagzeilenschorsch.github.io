@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neue Website
+title: Neue Website online!
 date: 2018-03-15 23:58:29 +0100
 tags:
   - Junau Observer
