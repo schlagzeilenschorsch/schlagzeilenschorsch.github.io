@@ -16,6 +16,6 @@ Wir betreiben modernen Hassjournalismus im Netz, sind dabei nah dran am Geschehe
 
 Dafür stehen wir mit unseren Namen.
 
-Kommt auf unseren Discord:
+**Kommt auf unseren Discord:**
 
 [Klick Mich!](https://discord.gg/QpeJHzs)
