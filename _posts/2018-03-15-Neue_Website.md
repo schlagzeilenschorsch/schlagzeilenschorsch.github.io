@@ -18,7 +18,7 @@ Dies hat zum Einen den Vorteil, dass die Seite nun völlig Werbefrei ist und zum
 ![Joiz](/assets/images/junauobs/joizmumu.JPG)
 
 
-Jetzt muss ich jeden alten Artikel einzeln hier einpflegen, Da ich auch noch andere Dinge zu tun habe und Lydia gerade im wohlverdienten (aber unbezahlten) Urlaub ist, kann das alles etwas dauern.
+Jetzt muss ich jeden alten Artikel einzeln hier einpflegen. Da ich auch noch andere Dinge zu tun habe und Lydia gerade im wohlverdienten (aber unbezahlten) Urlaub ist, kann das alles etwas dauern.
 
 Ich bitte um Verständnis!
 
