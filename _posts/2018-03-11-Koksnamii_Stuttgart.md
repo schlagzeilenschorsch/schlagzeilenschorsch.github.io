@@ -11,7 +11,9 @@ authors:
 comments: true
 teaser: /assets/images/junauobs/koksnamii_auto.gif
 ---
-<p>Total zugedröhnt lässt sich Koksnamii durch Stuttgart zu einem Club chauffieren. Er benimmt sich dabei so daneben, dass Gastgeber Giovanni und Begleitung Tori mehrfach überlegen, den geplanten Abend abzublasen und wieder zurück zu fahren. Er pöbelt Fußgänger aus dem fahrenden Auto heraus an und gräbt die ganze Zeit an Tori rum.</p>
+Total zugedröhnt lässt sich Koksnamii durch Stuttgart zu einem Club chauffieren. Er benimmt sich dabei so daneben, dass Gastgeber Giovanni und Begleitung Tori mehrfach überlegen, den geplanten Abend abzublasen und wieder zurück zu fahren. Er pöbelt Fußgänger aus dem fahrenden Auto heraus an und gräbt die ganze Zeit an Tori rum.
+
+
 <p>Am Ende scheint er sein Ziel doch noch erreicht zu haben - Tori musste sich am nächsten Tag die Extensions abschneiden, da sie über Nacht so verfilzt wurden.</p>
 <p>ACHTUNG!</p>
 <p>Das folgende Material könnte auf sensible Zuschauer verstörend wirken. Ansehen auf eigene Gefahr!</p>
