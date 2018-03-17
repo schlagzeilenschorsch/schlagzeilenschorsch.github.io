@@ -18,4 +18,4 @@ Dafür stehen wir mit unseren Namen.
 
 **Kommt auf unseren Discord:**
 
-[Klick Mich!](https://discord.gg/QpeJHzs)
+**https://discord.gg/QpeJHzs**
