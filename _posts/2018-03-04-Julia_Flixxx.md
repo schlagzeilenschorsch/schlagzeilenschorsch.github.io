@@ -1,10 +1,20 @@
 ---
-
-
+layout: post
+title: Die dunklen Machenschaften der Julia Flixxx
+date: 2018-03-04 10:16:23 +0100
+tags:
+  - Junau Observer
+  - Blauerose
+  - Julia Flixxx
+authors:
+  - ss
+comments: true
+teaser: /assets/images/junauobs/Flixxx.GIF
 ---
 
 <p>Auf YouNow treibt seit einiger Zeit eine weltweit gesuchte Hackerin namens Julia Flixxx ihr Unwesen.</p>
 <h3 id="achtung-höchst-gefährlich">Achtung! Höchst gefährlich!</h3>
+
 <p><img src="https://junau382942876.files.wordpress.com/2018/03/img_1012.jpg" alt=""></p>
 <p>Bisher bekannte Opfer ihrer Hack-Attacken sind fast ausschließlich beliebte YouNower.</p>
 <p>Darunter zum Beispiel</p>
