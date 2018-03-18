@@ -17,13 +17,13 @@ ist sie jetzt scheinbar auf der Suche nach einem potenten Deckhengst, der für N
 
 ![Ines auf der Suche](/assets/images/junauobs/InesNude.jpg)
 
-<p>Wenn ihr euch bei ihr bewerben wollt, hat sie uns ihre Kontaktdaten zu diesem Zwecke hinterlegt:<br>
+<p>Wenn ihr euch bei ihr bewerben wollt, hat sie uns ihre Kontaktdaten zu diesem Zwecke hinterlegt:<br></p>
 
-**Ines Deborah Steffen
+Ines Deborah Steffen
 
 Ratzeburger Str 46
 
 23843 Bad Oldesloe
 
-01520 1796556**</p>
+01520 1796556
 
