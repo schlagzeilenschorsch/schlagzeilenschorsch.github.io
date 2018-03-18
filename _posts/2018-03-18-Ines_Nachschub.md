@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schüttel_Ines sucht Nachschub
+title: Schüttel-Ines sucht Nachschub
 date: 2018-03-18 08:52:19 +0100
 tags:
   - Junau Observer
