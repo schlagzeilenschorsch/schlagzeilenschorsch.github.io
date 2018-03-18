@@ -15,7 +15,7 @@ teaser: /assets/images/junauobs/InesBaby.GIF
 <p>Nachdem der YouNow-Streamerin <a href="https://www.younow.com/candywoman_26">Ines</a> (aka powergirl aka candywoman) ihre Kinder aufrund hoher Gewalteinwirkung abgeben musste, 
 ist sie jetzt scheinbar auf der Suche nach einem potenten Deckhengst, der für Nachschub sorgt.</p> 
 
-![Ines auf der Suche](/assets/images/junauobs/maximnoise.jpg)
+![Ines auf der Suche](/assets/images/junauobs/InesNude.jpg)
 
 <p>Wenn ihr euch bei ihr bewerben wollt, hat sie uns ihre Kontaktdaten zu diesem Zwecke hinterlegt:<br>
 
