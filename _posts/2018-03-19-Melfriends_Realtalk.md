@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Melfriends Realtalk über YouNow-Partner und Fake-Zuschauer
+title: Melfriends Realtalk über YouNow, Partner und Bots
 date: 2018-03-19 19:44:29 +0100
 tags:
   - Junau Observer
