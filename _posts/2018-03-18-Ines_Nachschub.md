@@ -17,6 +17,8 @@ ist sie jetzt scheinbar auf der Suche nach einem potenten Deckhengst, der für N
 
 ![Ines auf der Suche](/assets/images/junauobs/InesNude2.jpg)
 
+Auf ihren Wunsch hin haben wir das Foto unkenntlich gemacht.
+
 <p>Wenn ihr euch bei ihr bewerben wollt, hat sie uns ihre Kontaktdaten zu diesem Zwecke hinterlegt:<br></p>
 
 Ines Deborah Steffen
