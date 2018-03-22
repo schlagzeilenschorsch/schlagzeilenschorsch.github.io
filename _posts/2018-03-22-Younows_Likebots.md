@@ -43,6 +43,19 @@ Ob YouNow diesen Streamer langfristig binden oder einfach nur andere Zuschauer z
 Warum YouNow diese Bots betreibt ist ja offensichtlich: Die neuen User gleich Likesüchtig machen. Anfixen nennt sich das glaube ich.
 
 
+
+UPDATE:
+
+Ich konnte soeben einen seiner Streams besuchen und er äußerte sich wie folgt zu den Fakten:
+
+- Dass ihn Bots supporten war ihm bekannt, der Grund jedoch nicht. Er vermutet jedoch, dass es an seiner Reichweite außerhalb von YouNow liegt
+
+- Ihm selbst ist aufgefallen, dass diese Bots nur in den ersten 5 streams auftauchen.
+
+- Er hat laut eigener Aussage so viele Accounts weil er die Zugangsdaten immer wieder vergisst.
+
+
+
 Auf <strong><a href="https://trend.feyn.cf">Junau Trend</a></strong><br>
 könnt ihr alle Informationen aus diesem Artikel selbst nachprüfen,</p>
 
