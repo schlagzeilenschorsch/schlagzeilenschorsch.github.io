@@ -16,13 +16,15 @@ teaser: /assets/images/junauobs/botsgif.GIF
 
 Wie ihr auf den folgenden Screenshots sehen könnt, kam jedes Mal nach exakt 35 Sekunden Sendezeit ein Zuschauer (meistens Level 50 aufwärts) in den Stream und gab ein Geschenk. 3x 2000 Likes, 3x 400 Likes und einmal 50 Likes.<br>
 
-![Bot](/assets/images/junauobs/bots1.jpg)
-![Bot](/assets/images/junauobs/bots2.jpg)
-![Bot](/assets/images/junauobs/bots3.jpg)
-![Bot](/assets/images/junauobs/bots4.jpg)
-![Bot](/assets/images/junauobs/bots5.jpg)
-![Bot](/assets/images/junauobs/bots6.jpg)
-![Bot](/assets/images/junauobs/bots7.jpg)
+<img src="/assets/images/junauobs/bots1.jpg" alt="Bot">
+
+![Bot1](/assets/images/junauobs/bots1.jpg)
+![Bot2](/assets/images/junauobs/bots2.jpg)
+![Bot3](/assets/images/junauobs/bots3.jpg)
+![Bot4](/assets/images/junauobs/bots4.jpg)
+![Bot5](/assets/images/junauobs/bots5.jpg)
+![Bot6](/assets/images/junauobs/bots6.jpg)
+![Bot7](/assets/images/junauobs/bots7.jpg)
 
 
 Eine Auswertung der <em>‘spendablen’</em> User auf <strong><a href="https://trend.feyn.cf">Junau Trend</a></strong> hat ergeben, dass es sich bei den vielen Likes nicht um Freespins handelt sondern um mit Barren gekaufte Geschenke. Außerdem ist außer den Geschenken an neue User keinerlei Aktivität dieser Accounts zu erkennen. Es handelt sich hierbei also mit an Sicherheit grenzender Wahrscheinlichkeit um KI-gesteuerte Bots.<br>
