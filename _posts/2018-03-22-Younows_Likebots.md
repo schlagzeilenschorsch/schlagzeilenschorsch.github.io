@@ -44,7 +44,7 @@ Warum YouNow diese Bots betreibt ist ja offensichtlich: Die neuen User gleich Li
 
 
 
-UPDATE:
+**UPDATE:**
 
 Ich konnte soeben einen seiner Streams besuchen und er äußerte sich wie folgt zu den Fakten:
 
