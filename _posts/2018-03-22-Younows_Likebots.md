@@ -19,17 +19,31 @@ Wie ihr auf den folgenden Screenshots sehen könnt, kam jedes Mal nach exakt 35 
 
 ![Bot](/assets/images/junauobs/bots1.jpg)
 
+Bot 1
+
 ![Bot](/assets/images/junauobs/bots2.jpg)
+
+Bot 2
 
 ![Bot](/assets/images/junauobs/bots3.jpg)
 
+Bot 3
+
 ![Bot](/assets/images/junauobs/bots4.jpg)
+
+Bot 4
 
 ![Bot](/assets/images/junauobs/bots5.jpg)
 
+Bot 5
+
 ![Bot](/assets/images/junauobs/bots6.jpg)
 
+Bot 6
+
 ![Bot](/assets/images/junauobs/bots7.jpg)
+
+Bot 7
 
 
 
