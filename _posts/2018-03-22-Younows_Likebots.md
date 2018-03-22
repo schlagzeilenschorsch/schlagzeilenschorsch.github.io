@@ -17,45 +17,20 @@ teaser: /assets/images/junauobs/botsgif.GIF
 
 Wie ihr auf den folgenden Screenshots sehen könnt, kam jedes Mal nach exakt 35 Sekunden Sendezeit ein Zuschauer (meistens Level 50 aufwärts) in den Stream und gab ein Geschenk. 3x 2000 Likes, 3x 400 Likes und einmal 50 Likes.<br>
 
-<<<<<<< HEAD
+
 <img src="/assets/images/junauobs/bots1.jpg" alt="Bot">
 
-![Bot1](/assets/images/junauobs/bots1.jpg)
-![Bot2](/assets/images/junauobs/bots2.jpg)
-![Bot3](/assets/images/junauobs/bots3.jpg)
-![Bot4](/assets/images/junauobs/bots4.jpg)
-![Bot5](/assets/images/junauobs/bots5.jpg)
-![Bot6](/assets/images/junauobs/bots6.jpg)
-![Bot7](/assets/images/junauobs/bots7.jpg)
-=======
-![Bot](/assets/images/junauobs/bots1.jpg)
+<img src="/assets/images/junauobs/bots2.jpg" alt="Bot">
 
-Bot 1
+<img src="/assets/images/junauobs/bots3.jpg" alt="Bot">
 
-![Bot](/assets/images/junauobs/bots2.jpg)
+<img src="/assets/images/junauobs/bots4.jpg" alt="Bot">
 
-Bot 2
+<img src="/assets/images/junauobs/bots5.jpg" alt="Bot">
 
-![Bot](/assets/images/junauobs/bots3.jpg)
+<img src="/assets/images/junauobs/bots6.jpg" alt="Bot">
 
-Bot 3
-
-![Bot](/assets/images/junauobs/bots4.jpg)
-
-Bot 4
-
-![Bot](/assets/images/junauobs/bots5.jpg)
-
-Bot 5
-
-![Bot](/assets/images/junauobs/bots6.jpg)
-
-Bot 6
-
-![Bot](/assets/images/junauobs/bots7.jpg)
->>>>>>> 9c894190e90c9fc88040899fd3bb3c57cc2b5b70
-
-Bot 7
+<img src="/assets/images/junauobs/bots7.jpg" alt="Bot">
 
 
 
