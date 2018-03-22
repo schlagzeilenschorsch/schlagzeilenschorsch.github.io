@@ -11,6 +11,7 @@ teaser: /assets/images/junauobs/botsgif.GIF
 ---
 
 <p>Schon vor längerer Zeit fiel mir auf, dass YouNow scheinbar Bots hat, die jedem neuen Streamer einen Freespin (zufälliges Gratisgeschenk, das die user einmal täglich verschenken können) geben. So dachte ich zumindest. Ich bin dem heute mal nachgegangen und die Realität ist leider noch weitaus perfider.</p>
+
 <p>Heute früh zwischen 7:00 und 8:00 Uhr habe ich den Feldversuch gestartet, nacheinander 7 Accounts erstellt und jeweils einen Stream gestartet.<br>
 
 
