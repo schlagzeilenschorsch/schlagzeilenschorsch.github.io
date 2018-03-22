@@ -12,7 +12,7 @@ teaser: /assets/images/junauobs/botsgif.GIF
 
 <p>Schon vor längerer Zeit fiel mir auf, dass YouNow scheinbar Bots hat, die jedem neuen Streamer einen Freespin (zufälliges Gratisgeschenk, das die user einmal täglich verschenken können) geben. So dachte ich zumindest. Ich bin dem heute mal nachgegangen und die Realität ist leider noch weitaus perfider.</p>
 
-<p>Heute früh zwischen 7:00 und 8:00 Uhr habe ich den Feldversuch gestartet, nacheinander 7 Accounts erstellt und jeweils einen Stream gestartet.<br>
+Heute früh zwischen 7:00 und 8:00 Uhr habe ich den Feldversuch gestartet, nacheinander 7 Accounts erstellt und jeweils einen Stream gestartet.<br>
 
 
 Wie ihr auf den folgenden Screenshots sehen könnt, kam jedes Mal nach exakt 35 Sekunden Sendezeit ein Zuschauer (meistens Level 50 aufwärts) in den Stream und gab ein Geschenk. 3x 2000 Likes, 3x 400 Likes und einmal 50 Likes.<br>
@@ -38,9 +38,17 @@ Eine Auswertung der <em>‘spendablen’</em> User auf <strong><a href="https://
 Besonders spannend ist der Fakt, dass diese Bots fast ausschließlich bei neuen Usern spenden <strong>bis auf eine Ausnahme: André Osana!</strong><br>
 
 
-Doch wer ist dieser André Osana? Er hat mehrere Profile auf YouNow, andremusic, andremusicofficial andreosada, andreosadaofficial und weitere nach diesem Schema. Bei all diesen Accounts haben die Bots, die ich heute etdeckt habe, mehr als nur einmal Barren ausgegeben.<br>
-Ob YouNow diesen Streamer langfristig binden oder einfach nur andere Zuschauer zum Barren kaufen und Spenden animieren ist nicht geklärt. Auch nicht, warum dieser Typ innerhalb der letzten Wochen mit mehreren Accounts gestreamt hat und die Bots jeden einzelnen davon überdurchschnittlich und mehrfach täglich gepusht haben.<br>
-Warum YouNow diese Bots betreibt ist ja offensichtlich: Die neuen User gleich Likesüchtig machen. Anfixen nennt sich das glaube ich. </p>
+Doch wer ist dieser André Osana? Er hat mehrere Profile auf YouNow, andremusic, andremusicofficial andreosada, andreosadaofficial und weitere nach diesem Schema. 
+
+Bei all diesen Accounts haben die Bots, die ich heute etdeckt habe, mehr als nur einmal Barren ausgegeben.<br>
+
+Ob YouNow diesen Streamer langfristig binden oder einfach nur andere Zuschauer zum Barren kaufen und Spenden animieren ist nicht geklärt. 
+
+Auch nicht, warum er innerhalb der letzten Wochen mit mehreren Accounts gestreamt hat und die Bots jeden einzelnen davon überdurchschnittlich und mehrfach täglich gepusht haben.<br>
+
+Warum YouNow diese Bots betreibt ist ja offensichtlich: Die neuen User gleich Likesüchtig machen. 
+
+Anfixen nennt sich das glaube ich. 
 
 
 
