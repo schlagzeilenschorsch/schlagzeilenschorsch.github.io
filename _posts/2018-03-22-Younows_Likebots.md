@@ -40,7 +40,7 @@ Besonders spannend ist der Fakt, dass diese Bots fast ausschließlich bei neuen 
 
 Doch wer ist dieser André Osana? Er hat mehrere Profile auf YouNow, andremusic, andremusicofficial andreosada, andreosadaofficial und weitere nach diesem Schema. Bei all diesen Accounts haben die Bots, die ich heute etdeckt habe, mehr als nur einmal Barren ausgegeben.<br>
 Ob YouNow diesen Streamer langfristig binden oder einfach nur andere Zuschauer zum Barren kaufen und Spenden animieren ist nicht geklärt. Auch nicht, warum dieser Typ innerhalb der letzten Wochen mit mehreren Accounts gestreamt hat und die Bots jeden einzelnen davon überdurchschnittlich und mehrfach täglich gepusht haben.<br>
-Warum YouNow diese Bots betreibt ist ja offensichtlich: Die neuen User gleich Likesüchtig machen. Anfixen nennt sich das glaube ich.
+Warum YouNow diese Bots betreibt ist ja offensichtlich: Die neuen User gleich Likesüchtig machen. Anfixen nennt sich das glaube ich. </p>
 
 
 
@@ -57,5 +57,5 @@ Ich konnte soeben einen seiner Streams besuchen und er äußerte sich wie folgt 
 
 
 Auf <strong><a href="https://trend.feyn.cf">Junau Trend</a></strong><br>
-könnt ihr alle Informationen aus diesem Artikel selbst nachprüfen,</p>
+könnt ihr alle Informationen aus diesem Artikel selbst nachprüfen,
 
